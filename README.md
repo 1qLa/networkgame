@@ -1,5 +1,5 @@
 # 昔々のパケットたち
-| | |
+
 |<img src="https://github.com/user-attachments/assets/7373db74-ff17-4f79-9f24-0d8f9386cdca" width="400" alt="Image 1"/>|<img src="https://github.com/user-attachments/assets/e0be7b3c-1fdb-424f-8b24-dd08abdab6ea" width="400" alt="Image 2"/>|
 
 > 「ルータ＝関所」「スイッチ＝賢いリーダー」
